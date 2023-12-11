@@ -1,0 +1,3 @@
+bash script_cont.sh 100 &
+bash script_myData.sh &
+bash script_printCaracter.sh &

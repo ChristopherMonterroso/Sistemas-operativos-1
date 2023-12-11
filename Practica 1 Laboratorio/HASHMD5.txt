@@ -1,0 +1,11 @@
+Get-FileHash -Path "script_cont.sh" -Algorithm MD5
+FBAE73208B57A14535752EA1E98DD15C
+
+Get-FileHash -Path "script_myData.sh" -Algorithm MD5
+158FB2AB7963168132F70BBDAEB63B8A
+
+Get-FileHash -Path "script_dashboard.sh" -Algorithm MD5
+14C2D135C6BEEE2CF7F0B6034193193C
+
+Get-FileHash -Path "script_printCaracter.sh" -Algorithm MD5
+A82B665076FB317DEA54E2AA851E74A6
